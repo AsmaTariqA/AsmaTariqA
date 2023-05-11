@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AsmaTariqA
-- 👀 I’m interested in IT and development.
-- 🌱 I’m currently learning web development.
+Hey there 👋, I am Asma Tariq Ansari.
+I take interest in IT and Development.
+I am learnig Web Development.
+I wanna support my skills on Github by uploading projects.
 
 <!---
 AsmaTariqA/AsmaTariqA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
