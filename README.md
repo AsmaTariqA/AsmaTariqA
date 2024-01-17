@@ -1,6 +1,6 @@
-Hey there 👋, I am Asma Tariq Ansari.
-I take interest in IT and Development.
-I am learnig Web Development and 
+Howdy, I am Asma Tariq Ansari.
+A teen with interest in tech and development.
+Presently, learning web development.
 I wanna support my skills on Github by uploading projects.
 
 <!---
