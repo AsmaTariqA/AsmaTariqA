@@ -7,7 +7,7 @@ I'm a teenager with a passion for technology and development. Currently, I'm div
 - **Frameworks/Libraries:** React
 
 ## Find Me on Instagram
-- [Your Instagram Handle](https://www.instagram.com/your_instagram_handle/)
+- [Your Instagram Handle](https://www.instagram.com/asmataariq/)
 
 Let's connect and build something awesome together! 🔥
 
