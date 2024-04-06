@@ -1,11 +1,13 @@
-![girl-programmer-is-studying-programming-languages-vector-40422183](https://github.com/AsmaTariqA/AsmaTariqA/assets/132979698/26d48c0e-1c80-4203-a381-f68ac6681dfe)
+# Hi there, I'm Asma Tariq Ansari! 👋🏻
 
-Howdy 👋🏻 I am Asma Tariq Ansari.
-A teen with interest in tech and development. 😎
-Presently, learning web development. 💻
-I wanna support my skills on Github by uploading projects ❕
+I'm a teenager with a passion for technology and development. Currently, I'm diving into the world of web development 💻 and eager to showcase my skills on GitHub by uploading my projects.
 
-<!---
-AsmaTariqA/AsmaTariqA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React
+
+## Find Me on Instagram
+- [Your Instagram Handle](https://www.instagram.com/your_instagram_handle/)
+
+Let's connect and build something awesome together! 🔥
+
