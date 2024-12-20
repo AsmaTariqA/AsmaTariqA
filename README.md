@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://instagram.fkhi11-1.fna.fbcdn.net/v/t51.2885-19/447654604_1203228657514331_7334221144299129630_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fkhi11-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Xhg-NpXzWloQ7kNvgEaIjzd&_nc_gid=16268df0116d4bfabd14e1c4887252ba&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYA8yCKYlYJLPSjZWFbV-noCALzOGaQvJ3ZtX_P_AqxiiA&oe=67296D80&_nc_sid=7a9f4b" alt="Profile Picture" style="width: 100px; height: 100px; border-radius: 50%;">
+
 
 # Hi there, I'm Asma Tariq Ansari! 👋🏻
 
