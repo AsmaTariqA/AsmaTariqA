@@ -12,7 +12,7 @@ I have a special love for building Islamic web projects. Incorporating my passio
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Nextjs
+- **Frameworks/Libraries:** React.js, Next.js
 
 ## Find Me on Instagram
 - [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/asmataariq/)
