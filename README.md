@@ -2,7 +2,7 @@
 
 
 
-# Hi there, I'm Asma Tariq Ansari! 👋🏻
+# Hi there, I'm Asma Tariq Ansari! 
 
 I'm a teenager with a passion for technology and development. Currently, I'm diving into the world of web development 💻 and eager to showcase my skills on GitHub by uploading my projects.
 
